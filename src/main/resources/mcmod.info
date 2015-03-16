@@ -1,0 +1,16 @@
+[
+{
+  "modid": "s4",
+  "name": "Sssserverium",
+  "description": "A simple mod that adds Sssserverium item and block",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["canilsen"],
+  "credits": "JD: Textures.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
